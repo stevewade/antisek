@@ -38,6 +38,7 @@ do
     echo "***CORRECT***"
     printf "\e[30;48;5;82m %s \e[0m" "  "
     printf "\n\e[30;48;5;9m %s \e[0m" "  "
+    printf "   "
     printf "\e[30;48;5;11m %s \e[0m" "  "
     printf "\n\e[30;48;5;15m %s \e[0m" "  "
     printf "\n\e[30;48;5;21m %s \e[0m" "  "
