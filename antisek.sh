@@ -17,7 +17,13 @@ fi
     echo "   / _ \ | '_ \| __| \___ \ / _ \ |/ /"
     echo "  / ___ \| | | | |_| |___) |  __/   < "
     echo " /_/   \_\_| |_|\__|_|____/ \___|_|\_\ "
+    echo "                 ,--.  "
+    echo "                < () >  "
+    echo "                 '--'  "
+
     echo "Input is Case Sensitive"
+    echo "It's _______timE"
+
 # game loop (loop over quiz file line/line)
 while read -u9 line
 do
