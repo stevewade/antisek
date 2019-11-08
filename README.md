@@ -1,15 +1,14 @@
 # antisek
 AntiSek Codebreaker
 
-Clone:
-```$ git clone https://github.com/stevewade/antisek.git```
+clone
+ChangeDir
+changeMode
+runProgram
 
-Change Dir:
-```$ cd antisek```
-
-Change Mode:
-```$ chmod 777 antisek.sh```
-`
-Run Program:
-```$ ./antisek.sh```
-
+```console
+:$ git clone https://github.com/stevewade/antisek.git
+:$ cd antisek
+:$ cd antisek
+:$ cd antisek
+```
