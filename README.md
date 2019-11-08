@@ -1,10 +1,10 @@
 # antisek
 AntiSek Codebreaker
 
-clone
-ChangeDir
-changeMode
-runProgram
+*clone
+*ChangeDir
+*changeMode
+*runProgram
 
 ```console
 :$ git clone https://github.com/stevewade/antisek.git
