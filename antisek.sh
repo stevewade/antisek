@@ -33,7 +33,7 @@ do
     read -p ": " player_choice
 
     # compare player against solution & increment score
-    if [ "$player_choice" == "1" ]
+    if [ "$player_choice" == "partY" ]
     then
     echo "***CORRECT***"
     printf "\e[30;48;5;82m %s \e[0m" "  "
